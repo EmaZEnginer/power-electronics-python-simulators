@@ -7,3 +7,5 @@ The developed simulators reproduce the behavior of several switched converters, 
 The simulators were developed by students as part of an Analog Electronics course. A second group of students used the tools in subsequent course iterations. Perception interviews revealed that interacting with the simulators improved students’ conceptual understanding of converter operation and digital simulation processes.
 
 Results show that students who developed the simulators gained deeper insights into circuit behavior, while students who used them reported improved comprehension and increased engagement with the subject.
+
+See the list of contributors in the AUTHORS.md file.
